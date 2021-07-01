@@ -1,7 +1,6 @@
 name,parent,value
 whole,,
-B,whole,8
-A,whole,23
+B A,whole,31
 F,whole,532
 G,whole,1374
 K,whole,648
