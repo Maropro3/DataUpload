@@ -1,5 +1,5 @@
 hostname,st_spectype,st_teff,st_rad,st_mass,st_met,st_metratio,st_lum,st_logg,st_age,st_dens,lum_class
-WD 1856+534,M,4710,0.01,0.52,,,-4.12,7.92,7.93,,V
+WD 1856+534,M,4710,0.01,0.52,,,-4.12,7.92,7.93,,VII
 TRAPPIST-1,M,2559,0.12,0.08,0.04,[Fe/H],-3.281,5.28,0.5,71.5,V
 Kepler-1582,M,3208,0.3,0.28,0.48,[Fe/H],-2.389,4.93,7.76,26.12704,V
 Kepler-1649,M,3240,0.23,0.2,-0.15,[M/H],-2.287,5,,22.91997,V
